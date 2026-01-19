@@ -22,6 +22,8 @@ A sensing device measures ambient light levels, while a display device visualize
 The sensor device continuously measures ambient light intensity and evaluates whether the surrounding environment provides sufficient illumination.
 Processed light data is transmitted wirelessly to the display device for visualization and control.
 
+![image alt](https://github.com/ChuhanJi/Hardware-Software-Final-Project/blob/6aa69827f252641120c5bb3ff69697bd52d2d20c/Images/A4%20-%203.jpg)
+
 ### Sensor Used
 
 * **Ambient Light Sensor: BH1750**
