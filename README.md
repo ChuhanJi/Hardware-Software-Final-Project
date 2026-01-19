@@ -6,7 +6,7 @@
 This project is a two-device system that monitors ambient lighting conditions and provides automatic fill lighting when illumination is insufficient.
 A sensing device measures ambient light levels, while a display device visualizes light sufficiency using a physical gauge and activates a fill light when needed.
 
-
+![image alt](https://github.com/ChuhanJi/Hardware-Software-Final-Project/blob/b74c9f004e2d23e30adfb9c82967dba2a666b64c/Images/A4%20-%201.jpg)
 
 **System Components:**
 
