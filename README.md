@@ -58,6 +58,8 @@ A custom PCB integrates the motor driver, LED control, and power management, pow
 
 ## System Communication & Logic
 
+![image alt](https://github.com/ChuhanJi/Hardware-Software-Final-Project/blob/2e295512a2f36694ce818f8dc3aeddfb401007f9/Images/A4%20-%202.jpg)
+
 ### System Communication Diagram
 
 The sensing device and display device communicate wirelessly using Bluetooth Low Energy (BLE).
