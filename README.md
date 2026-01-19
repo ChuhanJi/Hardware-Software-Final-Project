@@ -44,6 +44,8 @@ The processed light sufficiency value is then transmitted wirelessly to the disp
 The display device receives light sufficiency data from the sensing device and provides physical, human-readable feedback through a stepper-motor-driven gauge.
 It also controls an LED light strip to provide fill lighting when ambient illumination is insufficient.
 
+![image alt](https://github.com/ChuhanJi/Hardware-Software-Final-Project/blob/7eba93bd2d3d9f358a1bb929a1c2dcf05cf4ac69/Images/A4%20-%204.jpg)
+
 ### Sensors / Input Components Used
 
 * **Tactile Button (Tact Switch)**
